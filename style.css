@@ -63,7 +63,7 @@ main {
 	outline: solid 1px black;
 	/* min-height: 10rem; */
 	width: 100%;
-	height: 100%;
+	height: 10rem;
 	max-height: 10rem;
 	overflow: hidden;
 }
