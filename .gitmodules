@@ -1,3 +1,9 @@
 [submodule "javascript"]
 	path = javascript
 	url = git@github.com:gabrielryanft/javascript.git
+[submodule "htmlecss"]
+	path = htmlecss
+	url = git@github.com:gabrielryanft/htmlecss.git
+[submodule "primavera-arabe"]
+	path = primavera-arabe
+	url = git@github.com:gabrielryanft/primavera-arabe.git
